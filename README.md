@@ -4,7 +4,7 @@ General notes on OpenAI's interview / hiring process from the resources availabl
 
 ---
 
-# General Information
+## General Information
 
 OpenAI is a research laboratory that consists of a non-profit parent organization (OpenAI LP) and a capped for-profit child corporation (OpenAI LP). OpenAI's stated goal is to develop and promote `friendly AI` in a way that benefits humanity as a whole. It was founded in 2015 by Elon Musk, Sam Altman, Pieter Thiel, Y Combinator co-founder Jessica Livinggston, Linkedin co-founder Reid Hoffman, AWS, Y Combinator Research, and Indian IT / information services company Infosys with a collective pledge of 1 billion dollars. In 2018 Elon Musk resigned from the board to avoid a conflict of interest with Tesla's self-driving AI development but remained a donor. In 2019 Microsoft and Matthew Brown Companies (?) invested another 1 billion dollars in OpenAI LP which was created (in part?) to recieve the investment. OpenAI's headquarters is in the Pioneer Building in San Francisco's Mission District.
 
