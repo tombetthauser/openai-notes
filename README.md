@@ -1,3 +1,5 @@
+![terminator](http://3.bp.blogspot.com/-5K0-chh9m0M/UX_focTwbhI/AAAAAAAAVzg/M32MgO7YXls/s640/tumblr_lqz720yVpU1qmxvwfo1_500.gif)
+
 # OpenAI Notes
 
 General notes on OpenAI's interview / hiring process from the resources available on their site. Additionally collected notes on their company history / philosophy from other resources / interviews etc.
