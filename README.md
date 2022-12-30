@@ -17,3 +17,9 @@ In 2020 OpenAI announced GPT-3, a language model trained internet-collected text
 In 2021 OpenAI released DALL-E and in 2022 DALL-E 2, both of which are generative image models.
 
 OpenAI's 'capped' for profit structure dictates that it has a profit cap set at 100 times any investment. This presumably would mean that an investment of 1 billion dollars would only allow the investor to make a 100 billion dollar profit (?).
+
+## Risks to Humanity
+
+Elon Musk has described human-level / general artificial intelligence as humanitiy's `greatest existential risk`, a sentiment that seems to be held by other key figures involved with OpenAI and historical figures like Stephen Hawking and Stuart Russel. OpenAI has stated that AI "should be an extension of individual human wills and, in the spirit of liberty, as broadly and evenly distributed as possible." Musk has aknowledged that the attempt to develop beneficial AI could lead to the development of destructive AI, but that the best defence is to "empower as many people as possible to have AI." Altman has stated that they do not plan to release all the source code for the projects developed at OpenAI but that they would plan eventually to have a governance board of regionally elected representatives (?).
+
+Interestingly, GPT-2 was initially not released to the public due to a desire to "err on the side of caution" against potential misuse. This drew some criticism as being against their core mission.
